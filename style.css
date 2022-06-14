@@ -138,7 +138,7 @@ main {
     padding: 5px;
 }
 .cardview img {
-    width: 200px;
+    width:100%;
     height: auto;
     border-radius: 10px;
     box-shadow: 0px 0px 5px black;
@@ -347,4 +347,46 @@ div{
 a{
     width:fit-content;
     height:fit-content;
+}
+#relative{
+    background:#424242;
+    color:#D6CAFF;
+    text-shadow:0px 0px 3px #6795FF;
+    text-align:justify;
+    box-sizing:border-box;
+    padding:4px;
+}
+#relative img{
+    display:block;
+    margin:auto;
+    width:300px;
+    height:auto;
+    border-radius:20px;
+    box-shadow:0px 0px 3px white;
+}
+#relative figcaption{
+    text-align:center;
+    text-shadow:none;
+    color:green;
+    margin-top:10px;
+}
+#relative a{
+    text-decoration-color:#5C6140;
+    width:fit-content;
+}
+#relative hr{
+color:#7D6783;
+border:1px solid #7D6783;
+}
+#relative h1{
+    color:#BFBFBF;
+    text-shadow:none;
+    font-weight:300;
+    text-align:center;
+}
+#tt{
+    text-align:center;
+    display:block;
+    text-shadow:none;
+    color:#CDCDCD;
 }
