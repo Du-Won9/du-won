@@ -61,7 +61,7 @@ window.onload = function() {
      action.style.display="block";
     switch (n) {
         case 1:
-         loaction.replace("app_sharyu.html")
+         loaction.replace("https://du-won9.github.io/du-won/KNO3.html")
             break;
         
         case 2:
